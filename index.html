@@ -2,55 +2,36 @@
 <html lang="fr">
 
     <head>
-        <title>oussama / page de connexion</title>
+        <title>E-Event.IO</title>
 
         <link rel="stylesheet" href="style.css" id="mycss"/>
     </head>
     
     <body>
-
         <div>
-
             <div>
                 <h1 class="titre1">  E-Event.IO  </h1>           
-                <p class="par1">veuillez vous connecter</p>
+                <p class="par1">Bienvenue</p>
             </div>
 
             <div class="page">
-
-                <!-- <h1 class="titre1">  E-Event.IO  </h1>           
-                <p class="par1">veuillez vous connecter</p> -->
-                
                 <div class="formulaire">
                     <form action="data-processing.php" method="post" autocomplete="on">
                         <div>
-                            <label for="id">Identifiant :</label>
-                            </br>
-                            <input type="text" id="identifiant" name="user_id">
+                            <input type="text" id="id" name="user_id" placeholder="identifiant">
                         </div>
-                        </br>
                         <div>
-                            <label for="mdp">Mot de passe :</label>
-                            </br>
-                            <input type="password" id="mdp" name="user_mdp">
-                        </div>
-                                  
-                        </br>
-
+                            <input type="password" id="mdp" name="user_mdp" placeholder="mot de passe">
+                        </div>  
+                    </br>
                         <div class="button">
-                            <button class="cnx" name="action" type="submit">Se connecter</button>
-                            <a href="#" class="mdp">mot de passe oublié</a>
+                            <button class="cnx" name="action" type="submit">Connexion</button>
+                            <button class="new" name="action" type="submit">Créer un compte</button>
                         </div>
+                        <a href="#" class="mdp">mot de passe oublié</a>
                     </form>
                 </div>
-
-                <div class="creerCompte">
-                    <p>Vous n'avez pas de compte ?</p>
-                    <button class="new" name="action" type="submit">Créer un compte</button>
-                </div>
-                
             </div>
         </div>
-
     </body>
 </htmL>
