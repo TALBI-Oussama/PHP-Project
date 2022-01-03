@@ -153,7 +153,7 @@ o Un utilisateur qui a le rôle membre du jury et qui peut, à la fin d’une ca
 choisir N idées comme étant gagnantes (mises ensuite en avant sur l’application).
 Les idées gagnantes sont considérées comme à mettre en œuvre.
 
-##5.2.1 Bonne pratique professionnelle
+## 5.2.1 Bonne pratique professionnelle
 
 Les impératifs suivants devront être respectés :
 − bonne indentation et commentarisation de l’ensemble des codes sources ;
