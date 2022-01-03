@@ -5,6 +5,25 @@ Cyril - Oussama - Bastien - Kevin - Mathis
 
 # Sujet
 
+## 2.3 Livraison
+
+Votre livrable devra être :
+− nommé de la manière suivante (Nom1, Nom2, Nom3, Nom4, Nom5, Nom6 étant vos noms, par
+ordre lexicographique de vos noms de famille, et Prénom1, Prénom2, Prénom3, Prénom4,
+Prénom5, Prénom6 vos prénoms) : Nom1 Prénom1 – Nom2 Prénom2 – Nom3 Prénom3 –
+Nom4 Prénom4 – Nom5 Prénom5 – Nom6 Prénom6 ;
+− compressé dans une seule archive au format ZIP n’excédant pas 10 Mo ;
+− remis, avant la date de rendu, sur AMeTICE (http://ametice.univ-amu.fr), à la section
+rendu du cours correspondant
+
+## 3 Présentation orale
+
+Vous effectuerez une présentation orale respectant les consignes suivantes :
+− une durée maximale de 40 minutes devant un jury ;
+− à la date de présentation (selon l’ordre de passage que vous sera communiqué par votre
+enseignant responsable) ;
+− sur la réalisation de votre projet à laquelle des questions de cours viendront s’ajouter.
+
 ## 5.1 Mise en situation
 
 L’entité « E-Event.IO ! » propose son soutien dans l’organisation d’événements, notamment pour
@@ -164,3 +183,38 @@ smartphone et tablettes ;
 − validation W3C de toutes vos pages CSS (documents au minimum de profil CSS niveau 3
 avec aucun avertissement et en tenant compte des extensions propriétaires comme
 avertissement).
+
+## 6 Conseils
+
+Voici quelques conseils :
+− faites une recherche des solutions concurrentes ;
+− n'oubliez pas de tester le site Web sur différents systèmes d’exploitation et différents
+navigateurs Web (en utilisant des versions portables ou des services Web comme
+http://www.browsershots.org/) ;
+− pour les redoublants et ceux qui sont à l'aise, vous pouvez mettre en place quelques
+fonctionnalités intéressantes supplémentaires. À faire uniquement après avoir terminé tous
+les points essentiels notés ci-dessus et après avoir optimisé et approfondi les fonctionnalités
+demandées;
+− pensez à utiliser des services gratuits de stockage de ressources en ligne (Youtube,
+ImageShack, Scribd, etc.) afin d’éviter d’encombrer inutilement la taille restreinte du projet
+(et, bien souvent, de gagner en performance) ;
+− réalisez quelques éléments d’une bibliothèque (logicielle) ou même un framework
+minimaliste ;
+− utilisez des systèmes de gestion de version (Git : Bitbucket et https://try.github.com ;
+etc.), des frameworks de test unitaire (PHPUnit, etc.) et d’intégration continue (Jenkins,
+TravisCI, etc.) ;
+− activez le SSH par défaut pour votre solution d’hébergement ;
+− utilisez les outils de développement de vos navigateurs Web.
+Voici quelques conseils sur la présentation orale :
+− testez toujours le matériel avant une présentation orale ;
+− habillez-vous d’une tenue correcte en respect avec l’exercice ;
+− ne vous cachez pas derrière quelqu’un d’autre, et ne renvoyez pas la faute à autrui ;
+− ayez une voix qui porte (ce qui ne signifie pas forcément forte) ;
+− regardez l’assistance ;
+− employez une approche positive mais réelle (valorisante mais sans mensonge) ;
+− assurez-vous que ce qui est montré est bien vu.
+Voici les compétences relationnelles communément recherchées lors d’une présentation orale :
+− supprimer les parasites ;
+− avoir une bonne gestuelle ;
+− se mouvoir correctement ;
+− gérer l’utilisation de son regard.
