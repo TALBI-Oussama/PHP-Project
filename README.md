@@ -5,7 +5,7 @@ Cyril - Oussama - Bastien - Kevin - Mathis
 
 # Sujet
 
-5.1 Mise en situation
+## 5.1 Mise en situation
 
 L’entité « E-Event.IO ! » propose son soutien dans l’organisation d’événements, notamment pour
 les étudiants d’Aix-Marseille Université.
@@ -35,7 +35,9 @@ idées d’événements à mettre en œuvre. Les idées ayant reçus le plus de 
 mais cela ne doit pas bloquer la possibilité de choisir des idées moins populaires (tout est une
 question de jugement sur la faisabilité de l’idée finalement !). Les points seront convertis par
 l’entité « E-Event.IO » en « moyens » de soutien des idées d’événements.
-5.2 Solution Web à développer
+
+## 5.2 Solution Web à développer
+
 Il faudra développer une application Web de gestion d’idéations d’événements.
 Une campagne d’idéation d'événements commence à une date X et finit à une date Y. Pendant la
 campagne, des idées d’événements sont soumises par des organisateurs à travers l’application.
@@ -150,7 +152,9 @@ o Un utilisateur qui a le rôle donateur et qui peut dépenser des points dans d
 o Un utilisateur qui a le rôle membre du jury et qui peut, à la fin d’une campagne,
 choisir N idées comme étant gagnantes (mises ensuite en avant sur l’application).
 Les idées gagnantes sont considérées comme à mettre en œuvre.
-5.2.1 Bonne pratique professionnelle
+
+##5.2.1 Bonne pratique professionnelle
+
 Les impératifs suivants devront être respectés :
 − bonne indentation et commentarisation de l’ensemble des codes sources ;
 − bonne architecture des répertoires sources ;
