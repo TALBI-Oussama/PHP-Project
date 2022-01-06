@@ -19,7 +19,7 @@ rendu du cours correspondant
 ## 3 Présentation orale
 
 Vous effectuerez une présentation orale respectant les consignes suivantes :
-− une durée maximale de 40 minutes devant un jury ;
+− une durée maximale de **40 minutes** devant un jury ;
 − à la date de présentation (selon l’ordre de passage que vous sera communiqué par votre
 enseignant responsable) ;
 − sur la réalisation de votre projet à laquelle des questions de cours viendront s’ajouter.
